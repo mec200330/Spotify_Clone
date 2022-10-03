@@ -1,0 +1,59 @@
+img{
+    width: 50px;
+    height: 20px;
+}
+#lista1 li{
+    display: inline;
+    padding-left: 20px;    
+}
+#lista1{
+    padding-left: 300px;
+}
+h5{
+    color: green;
+}
+#list2 li{
+    display:inline-table;
+    padding-left: 40px;
+}
+#img3{
+    width: 200px;
+    height: 300px;
+    padding-left: 400px;
+    
+}
+#thirdpart{
+    background-color: greenyellow;
+}
+#primero{
+
+    background-image: url(../Assets/Imagenes/landing.jpg);
+    background-size: contain;
+    width: 500px;
+    height: 500px;
+    background-repeat: no-repeat;
+    
+}
+.tittle1{
+    color: aliceblue;
+    text-align:center;
+}
+.paragraph1{
+    color: aliceblue;
+    text-align: center;
+}
+.title2{
+    text-align: center;
+}
+#fourthpart h3{
+    color: aliceblue;    
+}
+#fourthpart p{
+    color: aliceblue;
+}
+#fourthpart{
+    
+    height: 400px;
+    width: 500px;
+transform: translateY(-80%);
+}
